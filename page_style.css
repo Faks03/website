@@ -1,0 +1,49 @@
+/* Set body background color to light gray */
+body {
+  
+  background-image: url("img/spring.jpg");
+  background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Style the page header */
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Style the section headers */
+h2 {
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+/* Style the paragraph text */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Center the footer text */
+footer {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+/* Increase the font size of headings */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 2em; /* Change the value to adjust the size */
+  }
+  
+  /* Increase the font size of paragraphs */
+  p {
+    font-size: 1.5em; /* Change the value to adjust the size */
+  }
+  
